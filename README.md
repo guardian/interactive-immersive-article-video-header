@@ -3,7 +3,10 @@
 
 # How to use this
 
-Paste the path to the video mp4 as the alt data to this boot.js
+Paste the path to the video mp4 as the alt data to this embed
+
+Here's the boot.js file:
+https://interactive.guim.co.uk/tools/page-enhancers/immersive-article-video-header/boot.js
 
 ## Getting started
 If you haven't already installed the following requirements:
