@@ -25,6 +25,7 @@
 
 .gv__enhancer__video {
     min-width: 100vw;
-    min-height: 100%;
+    min-height: 100vh;
     transform: translateX(-50%);
+    display: block;
 }
